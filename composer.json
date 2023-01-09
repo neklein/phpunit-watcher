@@ -20,7 +20,7 @@
         "clue/stdio-react": "^2.4",
         "jolicode/jolinotif": "^2.2",
         "symfony/console": "^5 | ^6.0",
-        "symfony/finder": "^5.4 | ^6.0",
+        "symfony/finder": "^5.4 | ^6.2",
         "symfony/process": "^5.4 | ^6.0",
         "symfony/yaml": "^5.2 | ^6.0",
         "yosymfony/resource-watcher": "^2.0 | ^3.0"
